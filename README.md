@@ -1,9 +1,6 @@
 # Git and GitHub Tutorial
 April 4, 2019
 
-## Homework:
-- Use the DSRI curriculum to add information
-
 ## Tasks during session
 
 1. Set up
